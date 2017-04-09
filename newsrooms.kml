@@ -380,7 +380,7 @@
 <!-- BELOW HERE -->
 
 
-<Style id="blue">
+<Style id="blue-normal">
       <IconStyle>
         <color>0351df</color>
         <scale>1</scale>
@@ -392,6 +392,28 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
+<Style id="blue-highlight">
+      <IconStyle>
+        <color>0351df</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/blue.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="blue">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#blue-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#blue-highlight</styleUrl>
+      </Pair>
+</StyleMap>
 <Style id="lightblue">
       <IconStyle>
         <color>03a9f5</color>
