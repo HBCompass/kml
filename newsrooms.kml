@@ -3,382 +3,6 @@
   <Document>
     <name>Collaborative Journalism Connections</name>
     <description>Collaborative journalism projects and networks across the country. Add to the dataset here: https://goo.gl/zjqHNP</description>
-    <!-- <Style id="icon-959-097138-normal">
-      <IconStyle>
-        <color>ff387109</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-097138-highlight">
-      <IconStyle>
-        <color>ff387109</color>
-        <scale>1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-097138">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-097138-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-097138-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-0BA9CC-normal">
-      <IconStyle>
-        <color>ffcca90b</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-0BA9CC-highlight">
-      <IconStyle>
-        <color>ffcca90b</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-0BA9CC">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-0BA9CC-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-0BA9CC-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-3F5BA9-normal">
-      <IconStyle>
-        <color>ffa95b3f</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-3F5BA9-highlight">
-      <IconStyle>
-        <color>ffa95b3f</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-3F5BA9">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-3F5BA9-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-3F5BA9-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-795046-normal">
-      <IconStyle>
-        <color>ff465079</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-795046-highlight">
-      <IconStyle>
-        <color>ff465079</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-795046">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-795046-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-795046-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-7C3592-normal">
-      <IconStyle>
-        <color>ff92357c</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-7C3592-highlight">
-      <IconStyle>
-        <color>ff92357c</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-7C3592">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-7C3592-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-7C3592-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-9FC3FF-normal">
-      <IconStyle>
-        <color>ffffc39f</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-9FC3FF-highlight">
-      <IconStyle>
-        <color>ffffc39f</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-9FC3FF">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-9FC3FF-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-9FC3FF-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-A52714-normal">
-      <IconStyle>
-        <color>ff1427a5</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-A52714-highlight">
-      <IconStyle>
-        <color>ff1427a5</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-A52714">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-A52714-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-A52714-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-CDDC39-normal">
-      <IconStyle>
-        <color>ff39dccd</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-CDDC39-highlight">
-      <IconStyle>
-        <color>ff39dccd</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-CDDC39">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-CDDC39-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-CDDC39-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-D698AD-normal">
-      <IconStyle>
-        <color>ffad98d6</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-D698AD-highlight">
-      <IconStyle>
-        <color>ffad98d6</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-D698AD">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-D698AD-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-D698AD-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-DB4436-normal">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-DB4436-highlight">
-      <IconStyle>
-        <color>ff3644db</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-DB4436">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-DB4436-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-DB4436-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="icon-959-E6EEA3-normal">
-      <IconStyle>
-        <color>ffa3eee6</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-    </Style>
-    <Style id="icon-959-E6EEA3-highlight">
-      <IconStyle>
-        <color>ffa3eee6</color>
-        <scale>1.1</scale>
-        <Icon>
-          <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-    </Style>
-    <StyleMap id="icon-959-E6EEA3">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-959-E6EEA3-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-959-E6EEA3-highlight</styleUrl>
-      </Pair>
-    </StyleMap> -->
-<!-- BELOW HERE -->
-
 
 <Style id="blue-normal">
       <IconStyle>
@@ -414,7 +38,8 @@
         <styleUrl>#blue-highlight</styleUrl>
       </Pair>
 </StyleMap>
-<Style id="lightblue">
+
+<Style id="lightblue-normal">
       <IconStyle>
         <color>03a9f5</color>
         <scale>1</scale>
@@ -426,7 +51,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="marine">
+<Style id="lightblue-highlight">
+      <IconStyle>
+        <color>03a9f5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/lightblue.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="lightblue">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#lightblue-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#lightblue-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="marine-normal">
       <IconStyle>
         <color>03d7b2</color>
         <scale>1</scale>
@@ -438,7 +86,65 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="lime">
+<Style id="marine-highlight">
+      <IconStyle>
+        <color>03d7b2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="marine">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#marine-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#marine-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="marine-normal">
+      <IconStyle>
+        <color>03d7b2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="marine-highlight">
+      <IconStyle>
+        <color>03d7b2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="marine">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#marine-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#marine-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="lime-normal">
       <IconStyle>
         <color>99d84f</color>
         <scale>1</scale>
@@ -450,7 +156,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="yellow">
+<Style id="lime-highlight">
+      <IconStyle>
+        <color>99d84f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/lime.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="lime">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#lime-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#lime-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="yellow-normal">
       <IconStyle>
         <color>ffeb3c</color>
         <scale>1</scale>
@@ -462,7 +191,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="tangerine">
+<Style id="yellow-highlight">
+      <IconStyle>
+        <color>ffeb3c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/yellow.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="yellow">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#yellow-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#yellow-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="tangerine-normal">
       <IconStyle>
         <color>ff9700</color>
         <scale>1</scale>
@@ -474,7 +226,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="orange">
+<Style id="tangerine-highlight">
+      <IconStyle>
+        <color>ff9700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/tangerine.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="tangerine">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#tangerine-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#tangerine-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="orange-normal">
       <IconStyle>
         <color>fe5722</color>
         <scale>1</scale>
@@ -486,7 +261,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="pink">
+<Style id="orange-highlight">
+      <IconStyle>
+        <color>fe5722</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/orange.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="orange">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#orange-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#orange-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="pink-normal">
       <IconStyle>
         <color>ea1e63</color>
         <scale>1</scale>
@@ -498,7 +296,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="fuschia">
+<Style id="pink-highlight">
+      <IconStyle>
+        <color>ea1e63</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/pink.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="pink">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#pink-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#pink-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="fuschia-normal">
       <IconStyle>
         <color>9c28b1</color>
         <scale>1</scale>
@@ -510,7 +331,30 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="purple">
+<Style id="fuschia-highlight">
+      <IconStyle>
+        <color>9c28b1</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/fuschia.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="fuschia">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#fuschia-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#fuschia-highlight</styleUrl>
+      </Pair>
+</StyleMap>
+
+<Style id="purple-normal">
       <IconStyle>
         <color>673bb7</color>
         <scale>1</scale>
@@ -522,6 +366,28 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
+<Style id="purple-highlight">
+      <IconStyle>
+        <color>673bb7</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/purple.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+</Style>
+<StyleMap id="purple">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#purple-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#purple-highlight</styleUrl>
+      </Pair>
+</StyleMap>
 
 <!-- ABOVE HERE -->
 
@@ -531,7 +397,7 @@
       <Placemark>
         <name>KFSK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KFSK - Petersburg<br>Website: www.kfsk.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -132.954692,56.814473,0
@@ -541,7 +407,7 @@
       <Placemark>
         <name>KCAW</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCAW - Sitka<br>www.kcaw.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -135.340426,57.048527,0
@@ -551,7 +417,7 @@
       <Placemark>
         <name>KSTK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KSTK - Wrangell<br>www.kstk.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -132.37949,56.471249,0
@@ -561,7 +427,7 @@
       <Placemark>
         <name>Alaska Public</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>APRN<br>KSKA / KAKM<br>www.alaskapublic.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -149.809195,61.190196,0
@@ -571,7 +437,7 @@
       <Placemark>
         <name>KNBA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KNBA - Anchorage<br>(No longer officially part of APRN, but still contributing stories to share with the network.)<br>www.knba.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -149.810944,61.211283,0
@@ -581,7 +447,7 @@
       <Placemark>
         <name>KUAC</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUAC - Fairbanks<br>www.kuac.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -147.819049,64.857481,0
@@ -591,7 +457,7 @@
       <Placemark>
         <name>KMXT</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KMXT - Kodiak<br>www.kmxt.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -152.396636,57.792249,0
@@ -601,7 +467,7 @@
       <Placemark>
         <name>KBBI</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KBBI - Homer<br>www.kbbi.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -151.532772,59.646722,0
@@ -611,7 +477,7 @@
       <Placemark>
         <name>KIYU</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KIYU - Galena<br>www.kiyu.com]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -156.881214,64.73959,0
@@ -621,7 +487,7 @@
       <Placemark>
         <name>KCHU</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCHU - Valdez<br>www.kchu.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -146.260772,61.111136,0
@@ -631,7 +497,7 @@
       <Placemark>
         <name>KNOM</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>(No longer officially part of APRN, but still contributing stories to share with the network.)<br>www.knom.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -165.402861,64.498389,0
@@ -641,7 +507,7 @@
       <Placemark>
         <name>KDLG</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KDLG - Dillingham<br>www.kdlg.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -158.463696,59.043066,0
@@ -651,7 +517,7 @@
       <Placemark>
         <name>KUCB</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUCB - Unalaska<br>www.kucb.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -166.531387,53.872779,0
@@ -661,7 +527,7 @@
       <Placemark>
         <name>KHNS</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KHSN - Haines<br>www.khns.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -135.440534,59.226422,0
@@ -671,7 +537,7 @@
       <Placemark>
         <name>KDLL</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KDLL - Kenai<br>www.kdll.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -151.324278,60.586145,0
@@ -681,7 +547,7 @@
       <Placemark>
         <name>KTNA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KTNA - Talkeetna<br>www.ktna.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -150.109624,62.321051,0
@@ -691,7 +557,7 @@
       <Placemark>
         <name>KZPA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KZPA - Fort Yukon<br>www.kzparadio.com/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -145.255115,66.56532,0
@@ -701,7 +567,7 @@
       <Placemark>
         <name>KBRW</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KBRW - Barrow<br>www.kbrw.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -156.762049,71.28865,0
@@ -711,7 +577,7 @@
       <Placemark>
         <name>KOTZ</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KOTZ - Kotzebue<br>www.kotz.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -162.596669,66.898378,0
@@ -721,7 +587,7 @@
       <Placemark>
         <name>KNSA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KNSA - Unalakleet<br>www.kdlg.org/knsa-unalakleet]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -160.795766,63.875945,0
@@ -731,7 +597,7 @@
       <Placemark>
         <name>KSDP</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KSDP - Sand Point<br>www.apradio.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -160.497222,55.339722,0
@@ -741,7 +607,7 @@
       <Placemark>
         <name>KUHB</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUHB - St. Paul<br>www.kuhbradio.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -170.279167,57.120556,0
@@ -751,7 +617,7 @@
       <Placemark>
         <name>KYUK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KYUK - Bethel<br>www.kyuk.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -161.773124,60.791552,0
@@ -761,7 +627,7 @@
       <Placemark>
         <name>KCUK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCUK - Chevak<br>www.kcukradio.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -165.601077,61.528831,0
@@ -771,7 +637,7 @@
       <Placemark>
         <name>KRBD</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KRBD - Ketchikan<br><br>Website: www.krbd.org]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -131.651766,55.349134,0
@@ -781,7 +647,7 @@
       <Placemark>
         <name>KTOO</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>Website: http://www.ktoo.org/]]></description>
-        <styleUrl>#blue</styleUrl>
+        <styleUrl>#blue-normal</styleUrl>
         <Point>
           <coordinates>
             -134.4145113,58.2995565,0
