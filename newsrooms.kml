@@ -377,12 +377,139 @@
         <styleUrl>#icon-959-E6EEA3-highlight</styleUrl>
       </Pair>
     </StyleMap>
+<!-- BELOW HERE -->
+
+
+<Style id="blue">
+      <IconStyle>
+        <color>0351df</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/blue.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="lightblue">
+      <IconStyle>
+        <color>03a9f5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/lightblue.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="marine">
+      <IconStyle>
+        <color>03d7b2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="lime">
+      <IconStyle>
+        <color>99d84f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/lime.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="yellow">
+      <IconStyle>
+        <color>ffeb3c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/yellow.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="tangerine">
+      <IconStyle>
+        <color>ff9700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/tangerine.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="orange">
+      <IconStyle>
+        <color>fe5722</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/orange.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="pink">
+      <IconStyle>
+        <color>ea1e63</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/pink.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="fuschia">
+      <IconStyle>
+        <color>9c28b1</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/fuschia.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+<Style id="purple">
+      <IconStyle>
+        <color>673bb7</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://github.com/HBCompass/kml/blob/master/mapicons/purple.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+</Style>
+
+<!-- ABOVE HERE -->
+
+
     <Folder>
       <name>Alaska Public Radio Network</name>
       <Placemark>
         <name>KFSK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KFSK - Petersburg<br>Website: www.kfsk.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -132.954692,56.814473,0
@@ -392,7 +519,7 @@
       <Placemark>
         <name>KCAW</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCAW - Sitka<br>www.kcaw.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -135.340426,57.048527,0
@@ -402,7 +529,7 @@
       <Placemark>
         <name>KSTK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KSTK - Wrangell<br>www.kstk.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -132.37949,56.471249,0
@@ -412,7 +539,7 @@
       <Placemark>
         <name>Alaska Public</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>APRN<br>KSKA / KAKM<br>www.alaskapublic.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -149.809195,61.190196,0
@@ -422,7 +549,7 @@
       <Placemark>
         <name>KNBA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KNBA - Anchorage<br>(No longer officially part of APRN, but still contributing stories to share with the network.)<br>www.knba.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -149.810944,61.211283,0
@@ -432,7 +559,7 @@
       <Placemark>
         <name>KUAC</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUAC - Fairbanks<br>www.kuac.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -147.819049,64.857481,0
@@ -442,7 +569,7 @@
       <Placemark>
         <name>KMXT</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KMXT - Kodiak<br>www.kmxt.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -152.396636,57.792249,0
@@ -452,7 +579,7 @@
       <Placemark>
         <name>KBBI</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KBBI - Homer<br>www.kbbi.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -151.532772,59.646722,0
@@ -462,7 +589,7 @@
       <Placemark>
         <name>KIYU</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KIYU - Galena<br>www.kiyu.com]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -156.881214,64.73959,0
@@ -472,7 +599,7 @@
       <Placemark>
         <name>KCHU</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCHU - Valdez<br>www.kchu.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -146.260772,61.111136,0
@@ -482,7 +609,7 @@
       <Placemark>
         <name>KNOM</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>(No longer officially part of APRN, but still contributing stories to share with the network.)<br>www.knom.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -165.402861,64.498389,0
@@ -492,7 +619,7 @@
       <Placemark>
         <name>KDLG</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KDLG - Dillingham<br>www.kdlg.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -158.463696,59.043066,0
@@ -502,7 +629,7 @@
       <Placemark>
         <name>KUCB</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUCB - Unalaska<br>www.kucb.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -166.531387,53.872779,0
@@ -512,7 +639,7 @@
       <Placemark>
         <name>KHNS</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KHSN - Haines<br>www.khns.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -135.440534,59.226422,0
@@ -522,7 +649,7 @@
       <Placemark>
         <name>KDLL</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KDLL - Kenai<br>www.kdll.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -151.324278,60.586145,0
@@ -532,7 +659,7 @@
       <Placemark>
         <name>KTNA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KTNA - Talkeetna<br>www.ktna.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -150.109624,62.321051,0
@@ -542,7 +669,7 @@
       <Placemark>
         <name>KZPA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KZPA - Fort Yukon<br>www.kzparadio.com/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -145.255115,66.56532,0
@@ -552,7 +679,7 @@
       <Placemark>
         <name>KBRW</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KBRW - Barrow<br>www.kbrw.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -156.762049,71.28865,0
@@ -562,7 +689,7 @@
       <Placemark>
         <name>KOTZ</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KOTZ - Kotzebue<br>www.kotz.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -162.596669,66.898378,0
@@ -572,7 +699,7 @@
       <Placemark>
         <name>KNSA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KNSA - Unalakleet<br>www.kdlg.org/knsa-unalakleet]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -160.795766,63.875945,0
@@ -582,7 +709,7 @@
       <Placemark>
         <name>KSDP</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KSDP - Sand Point<br>www.apradio.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -160.497222,55.339722,0
@@ -592,7 +719,7 @@
       <Placemark>
         <name>KUHB</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUHB - St. Paul<br>www.kuhbradio.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -170.279167,57.120556,0
@@ -602,7 +729,7 @@
       <Placemark>
         <name>KYUK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KYUK - Bethel<br>www.kyuk.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -161.773124,60.791552,0
@@ -612,7 +739,7 @@
       <Placemark>
         <name>KCUK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCUK - Chevak<br>www.kcukradio.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -165.601077,61.528831,0
@@ -622,7 +749,7 @@
       <Placemark>
         <name>KRBD</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KRBD - Ketchikan<br><br>Website: www.krbd.org]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -131.651766,55.349134,0
@@ -632,7 +759,7 @@
       <Placemark>
         <name>KTOO</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>Website: http://www.ktoo.org/]]></description>
-        <styleUrl>#icon-959-7C3592</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -134.4145113,58.2995565,0
