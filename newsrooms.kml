@@ -6,7 +6,7 @@
     <Style id="icon-959-097138-normal">
       <IconStyle>
         <color>ff387109</color>
-        <scale>1.1</scale>
+        <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
         </Icon>
@@ -18,7 +18,7 @@
     <Style id="icon-959-097138-highlight">
       <IconStyle>
         <color>ff387109</color>
-        <scale>1.1</scale>
+        <scale>1</scale>
         <Icon>
           <href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
         </Icon>
