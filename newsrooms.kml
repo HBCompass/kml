@@ -3,7 +3,7 @@
   <Document>
     <name>Collaborative Journalism Connections</name>
     <description>Collaborative journalism projects and networks across the country. Add to the dataset here: https://goo.gl/zjqHNP</description>
-    <Style id="icon-959-097138-normal">
+    <!-- <Style id="icon-959-097138-normal">
       <IconStyle>
         <color>ff387109</color>
         <scale>1</scale>
@@ -376,7 +376,7 @@
         <key>highlight</key>
         <styleUrl>#icon-959-E6EEA3-highlight</styleUrl>
       </Pair>
-    </StyleMap>
+    </StyleMap> -->
 <!-- BELOW HERE -->
 
 
