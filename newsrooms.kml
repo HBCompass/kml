@@ -4,7 +4,7 @@
     <name>Collaborative Journalism Connections</name>
     <description>Collaborative journalism projects and networks across the country. Add to the dataset here: https://goo.gl/zjqHNP</description>
 
-<Style id="blue-normal">
+<Style id="blue">
       <IconStyle>
         <color>0351df</color>
         <scale>1</scale>
@@ -16,30 +16,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="blue-highlight">
-      <IconStyle>
-        <color>0351df</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/blue.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="blue">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#blue-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#blue-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="lightblue-normal">
+<Style id="lightblue">
       <IconStyle>
         <color>03a9f5</color>
         <scale>1</scale>
@@ -51,30 +28,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="lightblue-highlight">
-      <IconStyle>
-        <color>03a9f5</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/lightblue.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="lightblue">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#lightblue-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#lightblue-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="marine-normal">
+<Style id="marine">
       <IconStyle>
         <color>03d7b2</color>
         <scale>1</scale>
@@ -86,65 +40,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="marine-highlight">
-      <IconStyle>
-        <color>03d7b2</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="marine">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#marine-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#marine-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="marine-normal">
-      <IconStyle>
-        <color>03d7b2</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-</Style>
-<Style id="marine-highlight">
-      <IconStyle>
-        <color>03d7b2</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/marine.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="marine">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#marine-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#marine-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="lime-normal">
+<Style id="lime">
       <IconStyle>
         <color>99d84f</color>
         <scale>1</scale>
@@ -156,30 +52,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="lime-highlight">
-      <IconStyle>
-        <color>99d84f</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/lime.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="lime">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#lime-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#lime-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="yellow-normal">
+<Style id="yellow">
       <IconStyle>
         <color>ffeb3c</color>
         <scale>1</scale>
@@ -191,30 +64,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="yellow-highlight">
-      <IconStyle>
-        <color>ffeb3c</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/yellow.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="yellow">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#yellow-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#yellow-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="tangerine-normal">
+<Style id="tangerine">
       <IconStyle>
         <color>ff9700</color>
         <scale>1</scale>
@@ -226,30 +76,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="tangerine-highlight">
-      <IconStyle>
-        <color>ff9700</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/tangerine.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="tangerine">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#tangerine-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#tangerine-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="orange-normal">
+<Style id="orange">
       <IconStyle>
         <color>fe5722</color>
         <scale>1</scale>
@@ -261,30 +88,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="orange-highlight">
-      <IconStyle>
-        <color>fe5722</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/orange.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="orange">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#orange-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#orange-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="pink-normal">
+<Style id="pink">
       <IconStyle>
         <color>ea1e63</color>
         <scale>1</scale>
@@ -296,30 +100,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="pink-highlight">
-      <IconStyle>
-        <color>ea1e63</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/pink.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="pink">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#pink-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#pink-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="fuschia-normal">
+<Style id="fuschia">
       <IconStyle>
         <color>9c28b1</color>
         <scale>1</scale>
@@ -331,30 +112,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="fuschia-highlight">
-      <IconStyle>
-        <color>9c28b1</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/fuschia.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="fuschia">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#fuschia-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#fuschia-highlight</styleUrl>
-      </Pair>
-</StyleMap>
-
-<Style id="purple-normal">
+<Style id="purple">
       <IconStyle>
         <color>673bb7</color>
         <scale>1</scale>
@@ -366,30 +124,7 @@
         <scale>0</scale>
       </LabelStyle>
 </Style>
-<Style id="purple-highlight">
-      <IconStyle>
-        <color>673bb7</color>
-        <scale>1</scale>
-        <Icon>
-          <href>https://github.com/HBCompass/kml/blob/master/mapicons/purple.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1.1</scale>
-      </LabelStyle>
-</Style>
-<StyleMap id="purple">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#purple-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#purple-highlight</styleUrl>
-      </Pair>
-</StyleMap>
 
-<!-- ABOVE HERE -->
 
 
     <Folder>
@@ -397,7 +132,7 @@
       <Placemark>
         <name>KFSK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KFSK - Petersburg<br>Website: www.kfsk.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -132.954692,56.814473,0
@@ -407,7 +142,7 @@
       <Placemark>
         <name>KCAW</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCAW - Sitka<br>www.kcaw.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -135.340426,57.048527,0
@@ -417,7 +152,7 @@
       <Placemark>
         <name>KSTK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KSTK - Wrangell<br>www.kstk.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -132.37949,56.471249,0
@@ -427,7 +162,7 @@
       <Placemark>
         <name>Alaska Public</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>APRN<br>KSKA / KAKM<br>www.alaskapublic.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -149.809195,61.190196,0
@@ -437,7 +172,7 @@
       <Placemark>
         <name>KNBA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KNBA - Anchorage<br>(No longer officially part of APRN, but still contributing stories to share with the network.)<br>www.knba.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -149.810944,61.211283,0
@@ -447,7 +182,7 @@
       <Placemark>
         <name>KUAC</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUAC - Fairbanks<br>www.kuac.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -147.819049,64.857481,0
@@ -457,7 +192,7 @@
       <Placemark>
         <name>KMXT</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KMXT - Kodiak<br>www.kmxt.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -152.396636,57.792249,0
@@ -467,7 +202,7 @@
       <Placemark>
         <name>KBBI</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KBBI - Homer<br>www.kbbi.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -151.532772,59.646722,0
@@ -477,7 +212,7 @@
       <Placemark>
         <name>KIYU</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KIYU - Galena<br>www.kiyu.com]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -156.881214,64.73959,0
@@ -487,7 +222,7 @@
       <Placemark>
         <name>KCHU</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCHU - Valdez<br>www.kchu.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -146.260772,61.111136,0
@@ -497,7 +232,7 @@
       <Placemark>
         <name>KNOM</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>(No longer officially part of APRN, but still contributing stories to share with the network.)<br>www.knom.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -165.402861,64.498389,0
@@ -507,7 +242,7 @@
       <Placemark>
         <name>KDLG</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KDLG - Dillingham<br>www.kdlg.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -158.463696,59.043066,0
@@ -517,7 +252,7 @@
       <Placemark>
         <name>KUCB</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUCB - Unalaska<br>www.kucb.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -166.531387,53.872779,0
@@ -527,7 +262,7 @@
       <Placemark>
         <name>KHNS</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KHSN - Haines<br>www.khns.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -135.440534,59.226422,0
@@ -537,7 +272,7 @@
       <Placemark>
         <name>KDLL</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KDLL - Kenai<br>www.kdll.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -151.324278,60.586145,0
@@ -547,7 +282,7 @@
       <Placemark>
         <name>KTNA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KTNA - Talkeetna<br>www.ktna.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -150.109624,62.321051,0
@@ -557,7 +292,7 @@
       <Placemark>
         <name>KZPA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KZPA - Fort Yukon<br>www.kzparadio.com/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -145.255115,66.56532,0
@@ -567,7 +302,7 @@
       <Placemark>
         <name>KBRW</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KBRW - Barrow<br>www.kbrw.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -156.762049,71.28865,0
@@ -577,7 +312,7 @@
       <Placemark>
         <name>KOTZ</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KOTZ - Kotzebue<br>www.kotz.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -162.596669,66.898378,0
@@ -587,7 +322,7 @@
       <Placemark>
         <name>KNSA</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KNSA - Unalakleet<br>www.kdlg.org/knsa-unalakleet]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -160.795766,63.875945,0
@@ -597,7 +332,7 @@
       <Placemark>
         <name>KSDP</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KSDP - Sand Point<br>www.apradio.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -160.497222,55.339722,0
@@ -607,7 +342,7 @@
       <Placemark>
         <name>KUHB</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KUHB - St. Paul<br>www.kuhbradio.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -170.279167,57.120556,0
@@ -617,7 +352,7 @@
       <Placemark>
         <name>KYUK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KYUK - Bethel<br>www.kyuk.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -161.773124,60.791552,0
@@ -627,7 +362,7 @@
       <Placemark>
         <name>KCUK</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KCUK - Chevak<br>www.kcukradio.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -165.601077,61.528831,0
@@ -637,7 +372,7 @@
       <Placemark>
         <name>KRBD</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>KRBD - Ketchikan<br><br>Website: www.krbd.org]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -131.651766,55.349134,0
@@ -647,7 +382,7 @@
       <Placemark>
         <name>KTOO</name>
         <description><![CDATA[Alaska Public Radio Network<br>http://www.alaskapublic.org/<br><br>Website: http://www.ktoo.org/]]></description>
-        <styleUrl>#blue-normal</styleUrl>
+        <styleUrl>#blue</styleUrl>
         <Point>
           <coordinates>
             -134.4145113,58.2995565,0
@@ -660,7 +395,7 @@
       <Placemark>
         <name>KTOO</name>
         <description><![CDATA[CoastAlaska<br>http://www.coastalaska.org/<br><br>KTOO Public Media - Juneau<br>www.ktoo.org]]></description>
-        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <styleUrl>#lightblue</styleUrl>
         <Point>
           <coordinates>
             -134.414565,58.299579,0
@@ -670,7 +405,7 @@
       <Placemark>
         <name>KCAW</name>
         <description><![CDATA[CoastAlaska<br>http://www.coastalaska.org/<br><br>KCAW - Sitka<br>www.kcaw.org]]></description>
-        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <styleUrl>#lightblue</styleUrl>
         <Point>
           <coordinates>
             -135.34042,57.04852,0
@@ -680,7 +415,7 @@
       <Placemark>
         <name>KFSK</name>
         <description><![CDATA[CoastAlaska<br>http://www.coastalaska.org/<br><br>KFSK - Petersburg<br>www.kfsk.org]]></description>
-        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <styleUrl>#lightblue</styleUrl>
         <Point>
           <coordinates>
             -132.95469,56.81447,0
@@ -690,7 +425,7 @@
       <Placemark>
         <name>KSTK</name>
         <description><![CDATA[CoastAlaska<br>http://www.coastalaska.org/<br><br>KSTK - Wrangell<br>www.kstk.org/]]></description>
-        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <styleUrl>#lightblue</styleUrl>
         <Point>
           <coordinates>
             -132.37948,56.47124,0
@@ -700,7 +435,7 @@
       <Placemark>
         <name>KRBD</name>
         <description><![CDATA[CoastAlaska<br>http://www.coastalaska.org/<br><br>KRBD - Ketchikan<br>www.krbd.org]]></description>
-        <styleUrl>#icon-959-3F5BA9</styleUrl>
+        <styleUrl>#lightblue</styleUrl>
         <Point>
           <coordinates>
             -131.65176,55.34913,0
@@ -713,7 +448,7 @@
       <Placemark>
         <name>KTOO</name>
         <description><![CDATA[Alaska Regional Journalism Center<br><br>KTOO Public Media - Juneau<br>www.ktoo.org]]></description>
-        <styleUrl>#icon-959-097138</styleUrl>
+        <styleUrl>#marine</styleUrl>
         <Point>
           <coordinates>
             -134.414565,58.299579,0
@@ -723,7 +458,7 @@
       <Placemark>
         <name>Alaska Public</name>
         <description><![CDATA[Alaska Regional Journalism Center<br><br>APRN<br>KSKA / KAKM<br>www.alaskapublic.org]]></description>
-        <styleUrl>#icon-959-097138</styleUrl>
+        <styleUrl>#marine</styleUrl>
         <Point>
           <coordinates>
             -149.809195,61.190196,0
@@ -733,7 +468,7 @@
       <Placemark>
         <name>KUCB</name>
         <description><![CDATA[Alaska Regional Journalism Center<br><br>KUCB - Unalaska<br>www.kucb.org]]></description>
-        <styleUrl>#icon-959-097138</styleUrl>
+        <styleUrl>#marine</styleUrl>
         <Point>
           <coordinates>
             -166.531387,53.872779,0
@@ -747,7 +482,7 @@
         <name>Jefferson Public Radio #1
           </name>
                   <description><![CDATA[Northwest News Network<br>http://nwnewsnetwork.org/<br><br>Website: http://ijpr.org/]]></description>
-                  <styleUrl>#icon-959-9FC3FF</styleUrl>
+                  <styleUrl>#lime</styleUrl>
                   <Point>
                     <coordinates>
                       -122.6987929,42.1883699,0
@@ -758,7 +493,7 @@
                   <name>Jefferson Public Radio #2
           </name>
                   <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://ijpr.org/]]></description>
-                  <styleUrl>#icon-959-9FC3FF</styleUrl>
+                  <styleUrl>#lime</styleUrl>
                   <Point>
                     <coordinates>
                       -122.3898665,40.5820786,0
@@ -768,7 +503,7 @@
                 <Placemark>
                   <name>KBCS</name>
                   <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://kbcs.fm]]></description>
-                  <styleUrl>#icon-959-9FC3FF</styleUrl>
+                  <styleUrl>#lime</styleUrl>
                   <Point>
                     <coordinates>
                       -122.1467673,47.5861849,0
@@ -779,7 +514,7 @@
                   <name>KLCC
           </name>
                   <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://klcc.org/]]></description>
-                  <styleUrl>#icon-959-9FC3FF</styleUrl>
+                  <styleUrl>#lime</styleUrl>
                   <Point>
                     <coordinates>
                       -123.0946968,44.0508255,0
@@ -790,7 +525,7 @@
                   <name>KNKX #1
           </name>
                   <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://knkx.org/]]></description>
-                  <styleUrl>#icon-959-9FC3FF</styleUrl>
+                  <styleUrl>#lime</styleUrl>
                   <Point>
                     <coordinates>
                       -122.3478874,47.6173464,0
@@ -800,7 +535,7 @@
       <Placemark>
         <name>KNKX #2</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://knkx.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -122.4394568,47.1429994,0
@@ -810,7 +545,7 @@
       <Placemark>
         <name>KSVR</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://www.ksvr.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -122.310288,48.437361,0
@@ -820,7 +555,7 @@
       <Placemark>
         <name>KUOW</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/<br><br>Website: http://kuow.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -122.3127846,47.6618717,0
@@ -830,7 +565,7 @@
       <Placemark>
         <name>KWSO</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: https://kwso.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -121.3056855,44.9024998,0
@@ -840,7 +575,7 @@
       <Placemark>
         <name>Northwest Public Radio</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://nwpr.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -117.1669319,46.7307276,0
@@ -850,7 +585,7 @@
       <Placemark>
         <name>Oregon Public Broadcasting</name>
           <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://www.opb.org/]]></description>
-          <styleUrl>#icon-959-9FC3FF</styleUrl>
+          <styleUrl>#lime</styleUrl>
           <Point>
             <coordinates>
               -122.6711109,45.4720407,0
@@ -860,7 +595,7 @@
       <Placemark>
           <name>Spokane Public Radio</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://spokanepublicradio.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -117.4271348,47.6690256,0
@@ -870,7 +605,7 @@
       <Placemark>
         <name>Coast Community Radio</name>
         <description><![CDATA[Northwest News Network http://nwnewsnetwork.org/ <br><br>Website: http://coastradio.org/]]></description>
-        <styleUrl>#icon-959-9FC3FF</styleUrl>
+        <styleUrl>#lime</styleUrl>
         <Point>
           <coordinates>
             -123.827882,46.187722,0
@@ -883,7 +618,7 @@
       <Placemark>
         <name>The Center for Michigan’s Bridge Magazine</name>
         <description><![CDATA[Detroit Journalism Cooperative<br>http://www.detroitjournalism.org/<br><br>Website: http://www.bridgemi.com/]]></description>
-        <styleUrl>#icon-959-DB4436</styleUrl>
+        <styleUrl>#yellow</styleUrl>
         <Point>
           <coordinates>
             -83.6597087,42.3355297,0
@@ -893,7 +628,7 @@
       <Placemark>
         <name>Detroit Public Television</name>
         <description><![CDATA[Detroit Journalism Cooperative<br>http://www.detroitjournalism.org/<br><br>Website: http://www.dptv.org/]]></description>
-        <styleUrl>#icon-959-DB4436</styleUrl>
+        <styleUrl>#yellow</styleUrl>
         <Point>
           <coordinates>
             -83.5533003,42.5005831,0
@@ -903,7 +638,7 @@
       <Placemark>
         <name>Michigan Radio</name>
         <description><![CDATA[Detroit Journalism Cooperative<br>http://www.detroitjournalism.org/<br><br>Website: http://michiganradio.org/]]></description>
-        <styleUrl>#icon-959-DB4436</styleUrl>
+        <styleUrl>#yellow</styleUrl>
         <Point>
           <coordinates>
             -83.7543198,42.2774288,0
@@ -913,7 +648,7 @@
       <Placemark>
         <name>WDET</name>
         <description><![CDATA[Detroit Journalism Cooperative<br>http://www.detroitjournalism.org/<br><br>Website: http://wdet.org/]]></description>
-        <styleUrl>#icon-959-DB4436</styleUrl>
+        <styleUrl>#yellow</styleUrl>
         <Point>
           <coordinates>
             -83.0637321,42.3530339,0
@@ -923,7 +658,7 @@
       <Placemark>
         <name>New Michigan Media</name>
         <description><![CDATA[Detroit Journalism Cooperative<br>http://www.detroitjournalism.org/<br><br>Website: http://newmichiganmedia.com/]]></description>
-        <styleUrl>#icon-959-DB4436</styleUrl>
+        <styleUrl>#yellow</styleUrl>
         <Point>
           <coordinates>
             -83.0462364,42.3346733,0
@@ -936,7 +671,7 @@
       <Placemark>
         <name>The Pueblo Chieftain</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: http://www.chieftain.com/<br><br>https://medium.com/small-towns-big-change]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -104.6186501,38.2730517,0
@@ -946,7 +681,7 @@
       <Placemark>
         <name>Santa Fe New Mexican</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: http://www.santafenewmexican.com/]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -105.9351116,35.6880307,0
@@ -956,7 +691,7 @@
       <Placemark>
         <name>Rio Grande Sun</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: http://www.riograndesun.com/]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -106.0799641,35.9929615,0
@@ -966,7 +701,7 @@
       <Placemark>
         <name>The Taos News</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: http://taosnews.com/]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -105.5756108,36.3959897,0
@@ -976,7 +711,7 @@
       <Placemark>
         <name>KSFR</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: http://ksfr.org/]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -105.9986354,35.6049363,0
@@ -986,7 +721,7 @@
       <Placemark>
         <name>High Country News</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: https://www.hcn.org/]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -107.5976023,38.8661132,0
@@ -996,7 +731,7 @@
       <Placemark>
         <name>KNME Public Television</name>
         <description><![CDATA[Solutions Journalism Network: Small Towns, Big Change<br><br>Website: http://www.newmexicopbs.org/]]></description>
-        <styleUrl>#icon-959-795046</styleUrl>
+        <styleUrl>#tangerine</styleUrl>
         <Point>
           <coordinates>
             -106.6245659,35.0943251,0
@@ -1009,7 +744,7 @@
       <Placemark>
         <name>Illinois Public Media</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://will.illinois.edu/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -88.2235521,40.1151497,0
@@ -1019,7 +754,7 @@
       <Placemark>
         <name>WTVP</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://www.wtvp.org/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -89.595977,40.685014,0
@@ -1029,7 +764,7 @@
       <Placemark>
         <name>WUIS</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://nprillinois.org/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -89.618761,39.729452,0
@@ -1039,7 +774,7 @@
       <Placemark>
         <name>WSIU Public Broadcasting</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://www.wsiu.org/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -89.224842,37.715179,0
@@ -1049,7 +784,7 @@
       <Placemark>
         <name>Tri States Public Radio - Burlington</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://tspr.org/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -91.388179,40.3999297,0
@@ -1059,7 +794,7 @@
       <Placemark>
         <name>Tri States Public Radio - Galesburg</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://tspr.org/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -90.369675,40.9455075,0
@@ -1069,7 +804,7 @@
       <Placemark>
         <name>WVIK</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://wvik.org/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -90.5476121,41.5035904,0
@@ -1079,7 +814,7 @@
       <Placemark>
         <name>WEIU</name>
         <description><![CDATA[Illinois Newsroom<br><br>Website: http://www.weiu.net/]]></description>
-        <styleUrl>#icon-959-0BA9CC</styleUrl>
+        <styleUrl>#orange</styleUrl>
         <Point>
           <coordinates>
             -88.1731075,39.479501,0
@@ -1092,7 +827,7 @@
       <Placemark>
         <name>KCUR</name>
         <description><![CDATA[Harvest Public Media - Full Partner<br>http://harvestpublicmedia.org/<br><br>Website: http://kcur.org/]]></description>
-        <styleUrl>#icon-959-CDDC39</styleUrl>
+        <styleUrl>#pink</styleUrl>
         <Point>
           <coordinates>
             -94.5725986,39.0394507,0
@@ -1102,7 +837,7 @@
       <Placemark>
         <name>KBIA</name>
         <description><![CDATA[Harvest Public Media - Full Partner<br>http://harvestpublicmedia.org/<br><br>Website: http://kbia.org/]]></description>
-        <styleUrl>#icon-959-CDDC39</styleUrl>
+        <styleUrl>#pink</styleUrl>
         <Point>
           <coordinates>
             -92.327928,38.947211,0
@@ -1112,7 +847,7 @@
       <Placemark>
         <name>Iowa Public Radio</name>
         <description><![CDATA[Harvest Public Media - Full Partner<br>http://harvestpublicmedia.org/<br><br>Website: http://iowapublicradio.org]]></description>
-        <styleUrl>#icon-959-CDDC39</styleUrl>
+        <styleUrl>#pink</styleUrl>
         <Point>
           <coordinates>
             -93.6453521,41.5846947,0
@@ -1122,7 +857,7 @@
       <Placemark>
         <name>NET Nebraska</name>
         <description><![CDATA[Harvest Public Media - Full Partner, Video Unit Partner<br>http://harvestpublicmedia.org/<br><br>Website: http://netnebraska.org/]]></description>
-        <styleUrl>#icon-959-CDDC39</styleUrl>
+        <styleUrl>#pink</styleUrl>
         <Point>
           <coordinates>
             -96.6720635,40.8310225,0
@@ -1132,7 +867,7 @@
       <Placemark>
         <name>KUNC</name>
         <description><![CDATA[Harvest Public Media - Full Partner<br>http://harvestpublicmedia.org/<br><br>Website: http://www.kunc.org/]]></description>
-        <styleUrl>#icon-959-CDDC39</styleUrl>
+        <styleUrl>#pink</styleUrl>
         <Point>
           <coordinates>
             -104.7713837,40.4073383,0
@@ -1266,7 +1001,7 @@
       <Placemark>
         <name>San Francisco Chronicle</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website: http://www.sfchronicle.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
             <coordinates>
                 -122.40658,37.78215,0
@@ -1276,7 +1011,7 @@
       <Placemark>
         <name>SFGATE</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfgate.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
           <coordinates>
               -122.40658,37.78215,0
@@ -1286,7 +1021,7 @@
       <Placemark>
         <name>KQED</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.kqed.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40974,37.76262,0
@@ -1296,7 +1031,7 @@
       <Placemark>
         <name>KRON</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.kron4.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
           <coordinates>
               -122.3996,37.80021,0
@@ -1306,7 +1041,7 @@
       <Placemark>
         <name>Potrero View</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.potreroview.net/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
           <coordinates>
               -122.38809,37.76027,0
@@ -1316,7 +1051,7 @@
       <Placemark>
         <name>San Francisco Examiner</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfexaminer.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
           <coordinates>
               -122.40685,37.78353,0
@@ -1326,7 +1061,7 @@
       <Placemark>
         <name>San Francisco Public Press</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfpublicpress.org/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.42163,37.77437,0
@@ -1336,7 +1071,7 @@
       <Placemark>
         <name>Renaissance Journalism</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.renjournalism.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.4045,37.79044,0
@@ -1346,7 +1081,7 @@
       <Placemark>
         <name>Hoodline</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.hoodline.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41224,37.75875,0
@@ -1356,7 +1091,7 @@
       <Placemark>
         <name>San Francisco Business Times</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sanfranciscobusinesstimes.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40045,37.79386,0
@@ -1366,7 +1101,7 @@
       <Placemark>
         <name>Sing Tao Daily</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://std.stheadline.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -121.91569,37.41943,0
@@ -1376,7 +1111,7 @@
       <Placemark>
         <name>Medium</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.medium.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40538,37.78652,0
@@ -1386,7 +1121,7 @@
       <Placemark>
         <name>Marina Times</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.marinatimes.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.43585,37.79777,0
@@ -1396,7 +1131,7 @@
       <Placemark>
         <name>Castro Courier</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.castrocourier.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.43256,37.75614,0
@@ -1406,7 +1141,7 @@
       <Placemark>
         <name>Mid-Market News</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.mid-marketnews.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41114,37.78256,0
@@ -1416,7 +1151,7 @@
       <Placemark>
         <name>KALW</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.kalw.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40706,37.72099,0
@@ -1426,7 +1161,7 @@
       <Placemark>
         <name>Mission Local</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://missionlocal.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.4188,37.76008,0
@@ -1436,7 +1171,7 @@
       <Placemark>
         <name>KGO-TV/ABC7</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.abc7news.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.3996,37.80021,0
@@ -1446,7 +1181,7 @@
       <Placemark>
         <name>Bay Area Reporter</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.ebar.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.42109,37.7727,0
@@ -1456,7 +1191,7 @@
       <Placemark>
         <name>KTVU</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.ktvu.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.27717,37.79466,0
@@ -1466,7 +1201,7 @@
       <Placemark>
         <name>San Francisco Magazine</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40573,37.80537,0
@@ -1476,7 +1211,7 @@
       <Placemark>
         <name>BuzzFeed News</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.buzzfeed.com/news]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40959,37.78231,0
@@ -1486,7 +1221,7 @@
       <Placemark>
         <name>Mother Jones</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.motherjones.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40448,37.79003,0
@@ -1496,7 +1231,7 @@
       <Placemark>
         <name>Timeline</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.timeline.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.43256,37.75614,0
@@ -1506,7 +1241,7 @@
       <Placemark>
         <name>CityLab</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.citylab.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -77.05515,38.89781,0
@@ -1516,7 +1251,7 @@
       <Placemark>
         <name>KKSF Talk 910</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://talk910.iheart.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39638,37.77663,0
@@ -1526,7 +1261,7 @@
       <Placemark>
         <name>SFist</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfist.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.43256,37.75614,0
@@ -1536,7 +1271,7 @@
       <Placemark>
         <name>World Journal</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.worldjournal.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40764,37.79358,0
@@ -1546,7 +1281,7 @@
       <Placemark>
         <name>Central City Extra</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://studycenter.org/test/cce/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41931,37.77123,0
@@ -1556,7 +1291,7 @@
       <Placemark>
         <name>Golden Gate Xpress</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.goldengatexpress.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.47696,37.72117,0
@@ -1566,7 +1301,7 @@
       <Placemark>
         <name>KPIX</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://sanfrancisco.cbslocal.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.4014,37.79915,0
@@ -1576,7 +1311,7 @@
       <Placemark>
         <name>Mercury News</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.mercurynews.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -121.88976,37.33757,0
@@ -1586,7 +1321,7 @@
       <Placemark>
         <name>East Bay Times</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.eastbaytimes.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.02837,37.92417,0
@@ -1596,7 +1331,7 @@
       <Placemark>
         <name>48 Hills</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.48hills.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41941,37.77492,0
@@ -1606,7 +1341,7 @@
       <Placemark>
         <name>New America Media</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.newamericamedia.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41273,37.77495,0
@@ -1616,7 +1351,7 @@
       <Placemark>
         <name>El Tecolote</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.eltecolote.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41132,37.75284,0
@@ -1626,7 +1361,7 @@
       <Placemark>
         <name>Youth Radio</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.youthradio.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.26992,37.80691,0
@@ -1636,7 +1371,7 @@
       <Placemark>
         <name>Fortune</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.fortune.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39867,37.79498,0
@@ -1646,7 +1381,7 @@
       <Placemark>
         <name>AJ+</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.ajplus.net/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39036,37.77959,0
@@ -1656,7 +1391,7 @@
       <Placemark>
         <name>Commonwealth Club</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.commonwealthclub.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41095,37.7877,0
@@ -1666,7 +1401,7 @@
       <Placemark>
         <name>CALmatters</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.calmatters.org/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -121.49469,38.5785,0
@@ -1676,7 +1411,7 @@
       <Placemark>
         <name>Inc.</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.inc.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41941,37.77492,0
@@ -1686,7 +1421,7 @@
       <Placemark>
         <name>Sunset Beacon</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://sfnna.com/newspapers/sunset-beacon/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.50583,37.75268,0
@@ -1696,7 +1431,7 @@
       <Placemark>
         <name>Univision 14 KDTV</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.univision.com/san-francisco/kdtv ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39721,37.7905,0
@@ -1706,7 +1441,7 @@
       <Placemark>
         <name>West Portal Monthly</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfnna.com/newspapers/west-portal-monthly/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.4637,37.73464,0
@@ -1716,7 +1451,7 @@
       <Placemark>
         <name>HATCH Beat</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.hatchbeat.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.4637,37.73464,0
@@ -1726,7 +1461,7 @@
       <Placemark>
         <name>KNTV</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.nbcbayarea.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -121.92327,37.38203,0
@@ -1736,7 +1471,7 @@
       <Placemark>
         <name>Telemundo 48 KSTS</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.telemundoareadelabahia.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -121.92327,37.38203,0
@@ -1746,7 +1481,7 @@
       <Placemark>
         <name>KGO 810</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.kgoradio.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40064,37.79833,0
@@ -1756,7 +1491,7 @@
       <Placemark>
         <name>Business Insider</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.businessinsider.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39821,37.78886,0
@@ -1766,7 +1501,7 @@
       <Placemark>
         <name>TechCrunch</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.techcrunch.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -117.74575,33.70038,0
@@ -1776,7 +1511,7 @@
       <Placemark>
         <name>Fusion</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.fusion.net/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -80.33551,25.80295,0
@@ -1786,7 +1521,7 @@
       <Placemark>
         <name>San Francisco Neighborhood Newspaper Association</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfnna.com/newspapers/west-portal-monthly/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.41941,37.77492,0
@@ -1796,7 +1531,7 @@
       <Placemark>
         <name>Stories Behind the Fog</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.storiesbehindthefog.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.4029,37.7972,0
@@ -1806,7 +1541,7 @@
       <Placemark>
         <name>Micro-documentaries</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.micro-documentaries.com/]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40083,37.79002,0
@@ -1816,7 +1551,7 @@
       <Placemark>
         <name>SF Weekly</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.sfweekly.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.40685,37.78353,0
@@ -1826,7 +1561,7 @@
       <Placemark>
         <name>Berkeleyside</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.berkeleyside.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.23419,37.86461,0
@@ -1836,7 +1571,7 @@
       <Placemark>
         <name>SF Bay View</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  https://www.facebook.com/San-Francisco-Bay-View-Newspaper-117617488280955 ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39084,37.73363,0
@@ -1846,7 +1581,7 @@
       <Placemark>
         <name>CNBC</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://www.cnbc.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.39795,37.79203,0
@@ -1856,7 +1591,7 @@
       <Placemark>
         <name>New Fillmore</name>
         <description><![CDATA[SF Homeless Project<br>https://sfhomelessproject.com/<br><br>Website:  http://newfillmore.com/ ]]></description>
-        <styleUrl>#icon-959-A52714</styleUrl>
+        <styleUrl>#fuschia</styleUrl>
         <Point>
         <coordinates>
             -122.43823,37.78775,0
@@ -1869,7 +1604,7 @@
       <Placemark>
           <name>ProPublica</name>
           <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.0048,40.72539,0
@@ -1879,7 +1614,7 @@
       <Placemark>
         <name>WNYC</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.00525,40.72674,0
@@ -1889,7 +1624,7 @@
       <Placemark>
         <name>Univision</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.34886,25.81169,0
@@ -1899,7 +1634,7 @@
       <Placemark>
         <name>USA Today Network</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.97332,40.76046,0
@@ -1909,7 +1644,7 @@
       <Placemark>
         <name>The New York Times</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.9901,40.7561,0
@@ -1919,7 +1654,7 @@
       <Placemark>
         <name>Cuny Graduate School of Journalism</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.98884,40.75534,0
@@ -1929,7 +1664,7 @@
       <Placemark>
         <name>Arizona State University Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.07369,33.45364,0
@@ -1939,7 +1674,7 @@
       <Placemark>
         <name>Columbia University Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.96363,40.80746,0
@@ -1949,7 +1684,7 @@
       <Placemark>
         <name>Louisiana State University Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -91.18,30.40999,0
@@ -1959,7 +1694,7 @@
       <Placemark>
         <name>University of Memphis Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -89.93811,35.11872,0
@@ -1969,7 +1704,7 @@
       <Placemark>
         <name>University of Missouri Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -92.3282,38.94811,0
@@ -1979,7 +1714,7 @@
       <Placemark>
         <name>Ohio University Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.10025,39.32511,0
@@ -1989,7 +1724,7 @@
       <Placemark>
         <name>Texas State University Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.94307,29.88887,0
@@ -1999,7 +1734,7 @@
       <Placemark>
         <name>University of North Carolina Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.05193,35.91114,0
@@ -2009,7 +1744,7 @@
       <Placemark>
         <name>University of Oregon Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -123.07513,44.04641,0
@@ -2019,7 +1754,7 @@
       <Placemark>
         <name>University of Florida Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.34747,29.64791,0
@@ -2029,7 +1764,7 @@
       <Placemark>
         <name>University of Georgia Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.37402,33.95186,0
@@ -2039,7 +1774,7 @@
       <Placemark>
         <name>University of Alabama Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.5483,33.20987,0
@@ -2049,7 +1784,7 @@
       <Placemark>
         <name>Howard University Journalism School</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.02109,38.92244,0
@@ -2059,7 +1794,7 @@
       <Placemark>
         <name>AL.com</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.80857,33.51262,0
@@ -2069,7 +1804,7 @@
       <Placemark>
         <name>BirminghamWatch</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.73774,33.50528,0
@@ -2079,7 +1814,7 @@
       <Placemark>
         <name>The Montgomery Advertiser</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.31419,32.37881,0
@@ -2089,7 +1824,7 @@
       <Placemark>
         <name>WBRC</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.79897,33.48968,0
@@ -2099,7 +1834,7 @@
       <Placemark>
         <name>Alaska Public Media</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -149.80926,61.19021,0
@@ -2109,7 +1844,7 @@
       <Placemark>
         <name>KJZZ</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -111.97416,33.4133,0
@@ -2119,7 +1854,7 @@
       <Placemark>
         <name>KTVW-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.01841,33.39275,0
@@ -2129,7 +1864,7 @@
       <Placemark>
         <name>KUVE-DT / KUVE-CA</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -110.99607,32.24894,0
@@ -2139,7 +1874,7 @@
       <Placemark>
         <name>The Arizona Republic</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.07079,33.45162,0
@@ -2149,7 +1884,7 @@
       <Placemark>
         <name>12 News (KPNX-TV)</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.07079,33.45162,0
@@ -2159,7 +1894,7 @@
       <Placemark>
         <name>Arkansas Democrat-Gazette</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -92.27022,34.74402,0
@@ -2169,7 +1904,7 @@
       <Placemark>
         <name>BuzzFeed News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.98778,40.73702,0
@@ -2179,7 +1914,7 @@
       <Placemark>
         <name>Cronkite News/ AZ PBS</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.07369,33.45364,0
@@ -2189,7 +1924,7 @@
       <Placemark>
         <name>La Voz Arizona</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.07079,33.45162,0
@@ -2199,7 +1934,7 @@
       <Placemark>
         <name>The Challenge (Thunderbird High School)</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.09689,33.61283,0
@@ -2209,7 +1944,7 @@
       <Placemark>
         <name>AJ+</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.39036,37.77959,0
@@ -2219,7 +1954,7 @@
       <Placemark>
         <name>AM 760 KFMB</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -117.15661,32.82657,0
@@ -2229,7 +1964,7 @@
       <Placemark>
         <name>Capital Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.41995,38.55274,0
@@ -2239,7 +1974,7 @@
       <Placemark>
         <name>Chico News and Review</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.83808,39.73158,0
@@ -2249,7 +1984,7 @@
       <Placemark>
         <name>Investigative Newsource</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -117.0736,32.77399,0
@@ -2259,7 +1994,7 @@
       <Placemark>
         <name>KABE-CD</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -119.06843,35.36352,0
@@ -2269,7 +2004,7 @@
       <Placemark>
         <name>KALW</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.40706,37.72099,0
@@ -2279,7 +2014,7 @@
       <Placemark>
         <name>KCRW</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -118.47329,34.01715,0
@@ -2289,7 +2024,7 @@
       <Placemark>
         <name>KDTV-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.91075,37.376,0
@@ -2299,7 +2034,7 @@
       <Placemark>
         <name>KFTV-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.91075,37.376,0
@@ -2309,7 +2044,7 @@
       <Placemark>
         <name>KMEX-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -118.38837,33.97641,0
@@ -2319,7 +2054,7 @@
       <Placemark>
         <name>KPCC</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -118.14845,34.13761,0
@@ -2329,7 +2064,7 @@
       <Placemark>
         <name>KQED</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.40974,37.76262,0
@@ -2339,7 +2074,7 @@
       <Placemark>
         <name>KUVS-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.42635,38.5986,0
@@ -2349,7 +2084,7 @@
       <Placemark>
         <name>Los Angeles Times</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.49015,38.57853,0
@@ -2359,7 +2094,7 @@
       <Placemark>
         <name>Pioneer Newspaper</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.93302,37.94021,0
@@ -2369,7 +2104,7 @@
       <Placemark>
         <name>Reveal / The Center for Investigative Reporting (CIR)</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.29302,37.84705,0
@@ -2379,7 +2114,7 @@
       <Placemark>
         <name>The Press-Enterprise</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -117.34907,33.99433,0
@@ -2389,7 +2124,7 @@
       <Placemark>
         <name>Tribune Media</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.6237,41.89042,0
@@ -2399,7 +2134,7 @@
       <Placemark>
         <name>Ventura County Star</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -119.06205,34.21472,0
@@ -2409,7 +2144,7 @@
       <Placemark>
         <name>Colorado Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -104.88249,39.58234,0
@@ -2419,7 +2154,7 @@
       <Placemark>
         <name>CU News Corps</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -105.26223,40.00743,0
@@ -2429,7 +2164,7 @@
       <Placemark>
         <name>CU-Boulder</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -105.26223,40.00743,0
@@ -2439,7 +2174,7 @@
       <Placemark>
         <name>Newsteam Boulder</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -105.26981,40.00764,0
@@ -2449,7 +2184,7 @@
       <Placemark>
         <name>New England News Collaborative</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -72.69994,41.77179,0
@@ -2459,7 +2194,7 @@
       <Placemark>
         <name>Record Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -72.80899,41.50887,0
@@ -2469,7 +2204,7 @@
       <Placemark>
         <name>The Day</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -72.09484,41.35516,0
@@ -2479,7 +2214,7 @@
       <Placemark>
         <name>WTNH-TV</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -72.92179,41.30684,0
@@ -2489,7 +2224,7 @@
       <Placemark>
         <name>Dover Post</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.49195,39.15582,0
@@ -2499,7 +2234,7 @@
       <Placemark>
         <name>The News Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.59898,39.69555,0
@@ -2509,7 +2244,7 @@
       <Placemark>
         <name>Actualidad Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.32465,25.79316,0
@@ -2519,7 +2254,7 @@
       <Placemark>
         <name>Florida Today</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.67292,28.22475,0
@@ -2529,7 +2264,7 @@
       <Placemark>
         <name>Miami Herald</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.34404,25.80701,0
@@ -2539,7 +2274,7 @@
       <Placemark>
         <name>Miami New Times</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.20165,25.80241,0
@@ -2549,7 +2284,7 @@
       <Placemark>
         <name>New Observer</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -78.6411,35.77745,0
@@ -2559,7 +2294,7 @@
       <Placemark>
         <name>News-Press</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.8639,26.64029,0
@@ -2569,7 +2304,7 @@
       <Placemark>
         <name>Pensacola News Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.21526,30.41284,0
@@ -2579,7 +2314,7 @@
       <Placemark>
         <name>Tallahassee Democrat</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.26103,30.44657,0
@@ -2589,7 +2324,7 @@
       <Placemark>
         <name>Tampa Bay Times</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.63957,27.77004,0
@@ -2599,7 +2334,7 @@
       <Placemark>
         <name>The Florida Times-Union</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.66751,30.32438,0
@@ -2609,7 +2344,7 @@
       <Placemark>
         <name>The Palm Beach Post</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.05494,26.68873,0
@@ -2619,7 +2354,7 @@
       <Placemark>
         <name>WFSU-FM/Florida Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.31364,30.41775,0
@@ -2629,7 +2364,7 @@
       <Placemark>
         <name>WLRN</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.19187,25.78916,0
@@ -2639,7 +2374,7 @@
       <Placemark>
         <name>WLTV-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.33551,25.80295,0
@@ -2649,7 +2384,7 @@
       <Placemark>
         <name>WMFE</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.21227,28.56607,0
@@ -2659,7 +2394,7 @@
       <Placemark>
         <name>WUSF</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.41297,28.06346,0
@@ -2669,7 +2404,7 @@
       <Placemark>
         <name>FetchYourNews</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.56056,34.70375,0
@@ -2679,7 +2414,7 @@
       <Placemark>
         <name>Flagpole</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.38252,33.96061,0
@@ -2689,7 +2424,7 @@
       <Placemark>
         <name>Georgia Public Broadcasting</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.39565,33.78563,0
@@ -2699,7 +2434,7 @@
       <Placemark>
         <name>The Atlanta Journal-Constitution</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                 -84.34645,33.92249,0
@@ -2709,7 +2444,7 @@
       <Placemark>
         <name>WABE News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.36401,33.81132,0
@@ -2719,7 +2454,7 @@
       <Placemark>
         <name>WSB-TV</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.38984,33.79759,0
@@ -2729,7 +2464,7 @@
       <Placemark>
         <name>WUVG-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.36839,33.84789,0
@@ -2739,7 +2474,7 @@
       <Placemark>
         <name>Idaho Statesman</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -116.25235,43.61601,0
@@ -2749,7 +2484,7 @@
       <Placemark>
         <name>Daily Herald</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.98098,42.04333,0
@@ -2759,7 +2494,7 @@
       <Placemark>
         <name>Univision Chicago</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.62368,41.8931,0
@@ -2769,7 +2504,7 @@
       <Placemark>
         <name>WGLT Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -88.99467,40.51228,0
@@ -2779,7 +2514,7 @@
       <Placemark>
         <name>The Indianapolis Star</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.15855,39.76471,0
@@ -2789,7 +2524,7 @@
       <Placemark>
         <name>The Goshen News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -85.83402,41.58588,0
@@ -2799,7 +2534,7 @@
       <Placemark>
         <name>The Des Moines Register</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -93.62279,41.58679,0
@@ -2809,7 +2544,7 @@
       <Placemark>
         <name>Wichita Eagle</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.32768,37.6856,0
@@ -2819,7 +2554,7 @@
       <Placemark>
         <name>Kentucky Center for Investigative Reporting</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -85.75755,38.24823,0
@@ -2829,7 +2564,7 @@
       <Placemark>
         <name>The Courier-Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -85.76072,38.24725,0
@@ -2839,7 +2574,7 @@
       <Placemark>
         <name>WFPL</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -85.75755,38.24823,0
@@ -2849,7 +2584,7 @@
       <Placemark>
         <name>WMMT / Ohio Valley ReSource</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.82154,37.11684,0
@@ -2859,7 +2594,7 @@
       <Placemark>
         <name>The Lens</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -90.10099,29.95721,0
@@ -2869,7 +2604,7 @@
       <Placemark>
         <name>WBRZ-TV</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -91.18502,30.43263,0
@@ -2879,7 +2614,7 @@
       <Placemark>
         <name>Bangor Daily News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -69.00483,44.42572,0
@@ -2889,7 +2624,7 @@
       <Placemark>
         <name>BU News Service</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.10231,42.34883,0
@@ -2899,7 +2634,7 @@
       <Placemark>
         <name>Frontline</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.1485,42.35668,0
@@ -2909,7 +2644,7 @@
       <Placemark>
         <name>MassLive</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -72.58946,42.10185,0
@@ -2919,7 +2654,7 @@
       <Placemark>
         <name>WBUR</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.11552,42.35053,0
@@ -2929,7 +2664,7 @@
       <Placemark>
         <name>WGBH</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.1485,42.35668,0
@@ -2939,7 +2674,7 @@
       <Placemark>
         <name>Worcester Telegram and Gazette</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.7994,42.26266,0
@@ -2949,7 +2684,7 @@
       <Placemark>
         <name>Detroit Free Press</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.04861,42.33055,0
@@ -2959,7 +2694,7 @@
       <Placemark>
         <name>WDET</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.06373,42.35303,0
@@ -2969,7 +2704,7 @@
       <Placemark>
         <name>WDIV Local 4</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.05384,42.32984,0
@@ -2979,7 +2714,7 @@
       <Placemark>
         <name>Minnesota Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -93.09549,44.94904,0
@@ -2989,7 +2724,7 @@
       <Placemark>
         <name>MinnPost</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -93.24245,44.99026,0
@@ -2999,7 +2734,7 @@
       <Placemark>
         <name>St. Paul Pioneer Press</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -93.08358,44.94269,0
@@ -3009,7 +2744,7 @@
       <Placemark>
         <name>The Star Tribune</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -93.26813,44.97582,0
@@ -3019,7 +2754,7 @@
       <Placemark>
         <name>Commercial Appeal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -90.04128,35.13889,0
@@ -3029,7 +2764,7 @@
       <Placemark>
         <name>The Clarion-Ledger</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -90.1838,32.29808,0
@@ -3039,7 +2774,7 @@
       <Placemark>
         <name>KBIA-FM</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -92.32869,38.94522,0
@@ -3049,7 +2784,7 @@
       <Placemark>
         <name>KCUR</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -94.57256,39.03936,0
@@ -3059,7 +2794,7 @@
       <Placemark>
         <name>KMOV-TV</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -90.18809,38.62453,0
@@ -3069,7 +2804,7 @@
       <Placemark>
         <name>KWMU</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -90.23359,38.63913,0
@@ -3079,7 +2814,7 @@
       <Placemark>
         <name>Springfield News-Leader</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -93.2933,37.21467,0
@@ -3089,7 +2824,7 @@
       <Placemark>
         <name>The Pitch</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -94.58319,39.09357,0
@@ -3099,7 +2834,7 @@
       <Placemark>
         <name>Great Falls Tribune</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -111.30857,47.50302,0
@@ -3109,7 +2844,7 @@
       <Placemark>
         <name>NET, Nebraska Public Radio and Television</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.67209,40.83111,0
@@ -3119,7 +2854,7 @@
       <Placemark>
         <name>Capital Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -121.41995,38.55274,0
@@ -3129,7 +2864,7 @@
       <Placemark>
         <name>Reno Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -119.81589,39.54412,0
@@ -3139,7 +2874,7 @@
       <Placemark>
         <name>Las Vegas Review-Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -115.15687,36.17578,0
@@ -3149,7 +2884,7 @@
       <Placemark>
         <name>Reno Gazette-Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -119.7967,39.52893,0
@@ -3159,7 +2894,7 @@
       <Placemark>
         <name>New Hampshire Center for Public Interest Journalism</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.03368,43.19065,0
@@ -3169,7 +2904,7 @@
       <Placemark>
         <name>New Hampshire Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.53274,43.19254,0
@@ -3179,7 +2914,7 @@
       <Placemark>
         <name>The Keene Sentinel</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -72.28058,42.93311,0
@@ -3189,7 +2924,7 @@
       <Placemark>
         <name>Center for Cooperative Media</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.1953,40.85626,0
@@ -3199,7 +2934,7 @@
       <Placemark>
         <name>NJ Today</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.31676,40.55654,0
@@ -3209,7 +2944,7 @@
       <Placemark>
         <name>Philadelphia Inquirer</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.16327,39.96011,0
@@ -3219,7 +2954,7 @@
       <Placemark>
         <name>Roselle Park News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.26021,40.66171,0
@@ -3229,7 +2964,7 @@
       <Placemark>
         <name>The Daily Targum</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                    -74.44228,40.49634,0
@@ -3239,7 +2974,7 @@
       <Placemark>
         <name>New Mexico News Port</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -106.61978,35.08431,0
@@ -3249,7 +2984,7 @@
       <Placemark>
         <name>ABC News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.9799,40.77304,0
@@ -3259,7 +2994,7 @@
       <Placemark>
         <name>Commonwealth Magazine Taiwan // Crossing NYC</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.06175,42.35849,0
@@ -3269,7 +3004,7 @@
       <Placemark>
         <name>NBC</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.97933,40.75896,0
@@ -3279,7 +3014,7 @@
       <Placemark>
         <name>PIX11 News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.97322,40.74988,0
@@ -3289,7 +3024,7 @@
       <Placemark>
         <name>The Awl</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.98297,40.69462,0
@@ -3299,7 +3034,7 @@
       <Placemark>
         <name>The Highlands Current</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.95608,41.4192,0
@@ -3309,7 +3044,7 @@
       <Placemark>
         <name>The Village Voice</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.00777,40.70712,0
@@ -3319,7 +3054,7 @@
       <Placemark>
         <name>The Yomiuri Shimbun</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.97204,40.75348,0
@@ -3329,7 +3064,7 @@
       <Placemark>
         <name>Washington Post</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.03052,38.90287,0
@@ -3339,7 +3074,7 @@
       <Placemark>
         <name>WSKG</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.98638,42.10455,0
@@ -3349,7 +3084,7 @@
       <Placemark>
         <name>WXTV-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -74.00688,40.8726,0
@@ -3359,7 +3094,7 @@
       <Placemark>
         <name>Charlotte Observer</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.84421,35.22062,0
@@ -3369,7 +3104,7 @@
       <Placemark>
         <name>Scalawag</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -78.89999,35.98999,0
@@ -3379,7 +3114,7 @@
       <Placemark>
         <name>The Appalachian</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.67892,36.2148,0
@@ -3389,7 +3124,7 @@
       <Placemark>
         <name>The Times-News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.4407,36.09147,0
@@ -3399,7 +3134,7 @@
       <Placemark>
         <name>Winston-Salem Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -80.24846,36.09909,0
@@ -3409,7 +3144,7 @@
       <Placemark>
         <name>WRAL</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -78.67369,35.77941,0
@@ -3419,7 +3154,7 @@
       <Placemark>
         <name>WUNC</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.05424,35.90716,0
@@ -3429,7 +3164,7 @@
       <Placemark>
         <name>WUVC-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -78.61339,35.84224,0
@@ -3439,7 +3174,7 @@
       <Placemark>
         <name>Prairie Public</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.78572,46.87855,0
@@ -3449,7 +3184,7 @@
       <Placemark>
         <name>Akron Beacon Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.52046,41.07502,0
@@ -3459,7 +3194,7 @@
       <Placemark>
         <name>Columbus Dispatch</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.99892,39.96283,0
@@ -3469,7 +3204,7 @@
       <Placemark>
         <name>Dayton Daily News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.18633,39.73627,0
@@ -3479,7 +3214,7 @@
       <Placemark>
         <name>Loveland Magazine</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.26465,39.26914,0
@@ -3489,7 +3224,7 @@
       <Placemark>
         <name>News 5</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.66711,41.50304,0
@@ -3499,7 +3234,7 @@
       <Placemark>
         <name>The Blade</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.5334,41.6555,0
@@ -3509,7 +3244,7 @@
       <Placemark>
         <name>The Cincinnati Enquirer</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -84.51524,39.09868,0
@@ -3519,7 +3254,7 @@
       <Placemark>
         <name>The Columbus Dispatch</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.13443,39.92139,0
@@ -3529,7 +3264,7 @@
       <Placemark>
         <name>The Lantern Media Group</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.01733,39.99906,0
@@ -3539,7 +3274,7 @@
       <Placemark>
         <name>The Plain Dealer</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.76482,41.42779,0
@@ -3549,7 +3284,7 @@
       <Placemark>
         <name>The Post</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.1015,39.32513,0
@@ -3559,7 +3294,7 @@
       <Placemark>
         <name>WCPN</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.68189,41.50166,0
@@ -3569,7 +3304,7 @@
       <Placemark>
         <name>WEWS News 5</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.66711,41.50304,0
@@ -3579,7 +3314,7 @@
       <Placemark>
         <name>WKSU-FM</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.33421,41.14146,0
@@ -3589,7 +3324,7 @@
       <Placemark>
         <name>WSYX</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -83.05893,39.97552,0
@@ -3599,7 +3334,7 @@
       <Placemark>
         <name>KOKH</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.48912,35.54995,0
@@ -3609,7 +3344,7 @@
       <Placemark>
         <name>OU Nightly</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.44572,35.20393,0
@@ -3619,7 +3354,7 @@
       <Placemark>
         <name>OPB</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.67111,45.47204,0
@@ -3629,7 +3364,7 @@
       <Placemark>
         <name>Statesman Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -123.03465,44.94082,0
@@ -3639,7 +3374,7 @@
       <Placemark>
         <name>The Daily Astorian</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -123.83293,46.18732,0
@@ -3649,7 +3384,7 @@
       <Placemark>
         <name>The News-Review</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -123.34082,43.21441,0
@@ -3659,7 +3394,7 @@
       <Placemark>
         <name>The Oregonian</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.67631,45.51193,0
@@ -3669,7 +3404,7 @@
       <Placemark>
         <name>The Register-Guard</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -123.05212,44.08601,0
@@ -3679,7 +3414,7 @@
       <Placemark>
         <name>AL DÍA</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.17104,39.95369,0
@@ -3689,7 +3424,7 @@
       <Placemark>
         <name>NBC Network News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.21477,40.00735,0
@@ -3699,7 +3434,7 @@
       <Placemark>
         <name>Philadelphia Media Network</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.15373,39.95166,0
@@ -3709,7 +3444,7 @@
       <Placemark>
         <name>Pittsburgh City Paper</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.99781,40.44418,0
@@ -3719,7 +3454,7 @@
       <Placemark>
         <name>PublicSource</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.99401,40.42161,0
@@ -3729,7 +3464,7 @@
       <Placemark>
         <name>Reading Eagle</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.9305,40.3358,,0
@@ -3739,7 +3474,7 @@
       <Placemark>
         <name>The Philadelphia Inquirer</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.27412,40.06653,0
@@ -3749,7 +3484,7 @@
       <Placemark>
         <name>WESA</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.98666,40.42987,0
@@ -3759,7 +3494,7 @@
       <Placemark>
         <name>WHYY</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.15027,39.95406,0
@@ -3769,7 +3504,7 @@
       <Placemark>
         <name>WPSU</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.84152,40.83285,0
@@ -3779,7 +3514,7 @@
       <Placemark>
         <name>WUVP-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -75.1691,39.95267,0
@@ -3789,7 +3524,7 @@
       <Placemark>
         <name>York Daily Record</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -76.77508,39.97374,0
@@ -3799,7 +3534,7 @@
       <Placemark>
         <name>Rhode Island Public Radio</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -71.41324,41.82564,0
@@ -3809,7 +3544,7 @@
       <Placemark>
         <name>Post and Courier</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.9418,32.79469,0
@@ -3819,7 +3554,7 @@
       <Placemark>
         <name>The Greenville News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -82.39998,34.84664,0
@@ -3829,7 +3564,7 @@
       <Placemark>
         <name>The Herald</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.02931,34.92771,0
@@ -3839,7 +3574,7 @@
       <Placemark>
         <name>Argus Leader</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.73051,43.54568,0
@@ -3849,7 +3584,7 @@
       <Placemark>
         <name>KELOLAND</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.72714,43.54218,0
@@ -3859,7 +3594,7 @@
       <Placemark>
         <name>The Commercial Appeal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -90.04128,35.13889,0
@@ -3869,7 +3604,7 @@
       <Placemark>
         <name>The Daily News Journal</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.38978,35.84608,0
@@ -3879,7 +3614,7 @@
       <Placemark>
         <name>The Tennessean</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -86.78721,36.15738,0
@@ -3889,7 +3624,7 @@
       <Placemark>
         <name>El Paso Times</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -106.49322,31.75536,0
@@ -3899,7 +3634,7 @@
       <Placemark>
         <name>Houston Chronicle</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -95.45759,29.72762,0
@@ -3909,7 +3644,7 @@
       <Placemark>
         <name>KAKW-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.74224,30.32495,0
@@ -3919,7 +3654,7 @@
       <Placemark>
         <name>KERA</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.81112,32.79603,0
@@ -3929,7 +3664,7 @@
       <Placemark>
         <name>KLTV</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -95.30095,32.35197,0
@@ -3939,7 +3674,7 @@
       <Placemark>
         <name>KUT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.74026,30.28972,0
@@ -3949,7 +3684,7 @@
       <Placemark>
         <name>KUVN-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.79421,32.78721,0
@@ -3959,7 +3694,7 @@
       <Placemark>
         <name>KWEX-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -98.59104,29.54898,0
@@ -3969,7 +3704,7 @@
       <Placemark>
         <name>KXLN-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -95.46487,29.72797,0
@@ -3979,7 +3714,7 @@
       <Placemark>
         <name>Reporting Texas</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.73895,30.29617,0
@@ -3989,7 +3724,7 @@
       <Placemark>
         <name>San Antonio Express-News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -98.48513,29.43001,0
@@ -3999,7 +3734,7 @@
       <Placemark>
         <name>The Bay City Tribune</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -95.95534,28.99216,0
@@ -4009,7 +3744,7 @@
       <Placemark>
         <name>The Dallas Morning News</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -96.80627,32.77513,0
@@ -4019,7 +3754,7 @@
       <Placemark>
         <name>The Prospector</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -106.5033,31.77165,0
@@ -4029,7 +3764,7 @@
       <Placemark>
         <name>The Texas Tribune</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -97.74241,30.26901,0
@@ -4039,7 +3774,7 @@
       <Placemark>
         <name>KUER</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -111.83796,40.76731,0
@@ -4049,7 +3784,7 @@
       <Placemark>
         <name>KUTH-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -112.01552,40.77643,0
@@ -4059,7 +3794,7 @@
       <Placemark>
         <name>Burlington Free Press</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.21576,44.47834,0
@@ -4069,7 +3804,7 @@
       <Placemark>
         <name>Daily Press</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -76.47313,37.08592,0
@@ -4079,7 +3814,7 @@
       <Placemark>
         <name>Ozy.com</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.08412,37.38652,0
@@ -4089,7 +3824,7 @@
       <Placemark>
         <name>The Flat Hat</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -76.71349,37.27269,0
@@ -4099,7 +3834,7 @@
       <Placemark>
         <name>The Progress-Index</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.40295,37.22864,0
@@ -4109,7 +3844,7 @@
       <Placemark>
         <name>Virginian-Pilot</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                    -76.16938,36.8415,0
@@ -4119,7 +3854,7 @@
       <Placemark>
         <name>WVTF</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -79.96773,37.24224,0
@@ -4129,7 +3864,7 @@
       <Placemark>
         <name>KUOW</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.31278,47.66187,0
@@ -4139,7 +3874,7 @@
       <Placemark>
         <name>KCTS 9 TV</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -122.34835,47.62389,0
@@ -4149,7 +3884,7 @@
       <Placemark>
         <name>Charleston Gazette-Mail</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.63481,38.34743,0
@@ -4159,7 +3894,7 @@
       <Placemark>
         <name>WVPB</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -81.62935,38.35234,0
@@ -4169,7 +3904,7 @@
       <Placemark>
         <name>88Nine</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.90924,43.02944,0
@@ -4179,7 +3914,7 @@
       <Placemark>
         <name>WUWM</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -87.90935,43.03792,0
@@ -4189,7 +3924,7 @@
       <Placemark>
         <name>Jackson Hole News and Guide</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -110.7891,43.47062,0
@@ -4199,7 +3934,7 @@
       <Placemark>
         <name>Wyoming Tribune Eagle</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -104.82178,41.13092,0
@@ -4209,7 +3944,7 @@
       <Placemark>
         <name>Center for Public Integrity</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.03992,38.90188,0
@@ -4219,7 +3954,7 @@
       <Placemark>
         <name>Hearst Television</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -73.9835,40.76664,0
@@ -4229,7 +3964,7 @@
       <Placemark>
         <name>Howard University News Service</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.02109,38.92244,0
@@ -4239,7 +3974,7 @@
       <Placemark>
         <name>The Georgetowner</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.05931,38.90386,0
@@ -4249,7 +3984,7 @@
       <Placemark>
         <name>WFDC-DT</name>
         <description><![CDATA[Electionland<br>https://projects.propublica.org/electionland/<br><br>Website: http://propublica.org/ ]]></description>
-          <styleUrl>#icon-959-D698AD</styleUrl>
+          <styleUrl>#purple</styleUrl>
           <Point>
               <coordinates>
                   -77.01291,38.89273,0
